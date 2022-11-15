@@ -1,0 +1,12 @@
+C:\Users\Tyler\Documents\programs\c#\wikipedia_scraper\obj\Debug\wikipedia_scraper.csproj.AssemblyReference.cache
+C:\Users\Tyler\Documents\programs\c#\wikipedia_scraper\obj\Debug\wikipedia_scraper.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tyler\Documents\programs\c#\wikipedia_scraper\obj\Debug\wikipedia_scraper.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\Documents\programs\c#\wikipedia_scraper\bin\Debug\wikipedia_scraper.exe.config
+C:\Users\Tyler\Documents\programs\c#\wikipedia_scraper\bin\Debug\wikipedia_scraper.exe
+C:\Users\Tyler\Documents\programs\c#\wikipedia_scraper\bin\Debug\wikipedia_scraper.pdb
+C:\Users\Tyler\Documents\programs\c#\wikipedia_scraper\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Tyler\Documents\programs\c#\wikipedia_scraper\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Tyler\Documents\programs\c#\wikipedia_scraper\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Tyler\Documents\programs\c#\wikipedia_scraper\obj\Debug\wikipedia_scraper.csproj.CopyComplete
+C:\Users\Tyler\Documents\programs\c#\wikipedia_scraper\obj\Debug\wikipedia_scraper.exe
+C:\Users\Tyler\Documents\programs\c#\wikipedia_scraper\obj\Debug\wikipedia_scraper.pdb
